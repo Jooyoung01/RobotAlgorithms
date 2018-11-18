@@ -17,6 +17,9 @@ Localization
   -- EKF의 정확성을 보완한 UKF(Unscented Kalman filter_무향 칼만필터), 속도를 개선한 Fast Kalman filter 등 다수.  
   -- Particle filter와 함께 사용하는 RBPF(Rao-Blackwellized Particle Filter) 등 다른 알고리즘과 함께 사용됨.
 
+![Alt text](http://www.swarthmore.edu/NatSci/echeeve1/Ref/Kalman/images/ScalarSys4.gif "Scalar Kalman Filter")
+
+
 ## 2. Particle filter
 
 * 1
