@@ -19,6 +19,16 @@ Localization
 
 ![Alt text](http://www.swarthmore.edu/NatSci/echeeve1/Ref/Kalman/images/ScalarSys4.gif "Scalar Kalman Filter")
 
+[Reference]
+
+https://academic.csuohio.edu/simond/courses/eec644/kalman.pdf
+http://www.cs.unc.edu/~tracker/media/pdf/SIGGRAPH2001_CoursePack_08.pdf
+http://hangondragon.blogspot.com/2009/05/kalman-filter-part-2-kalman-filter.html
+http://www.swarthmore.edu/NatSci/echeeve1/Ref/Kalman/ScalarKalman.html
+https://m.blog.naver.com/msnayana/80106682874
+http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/
+https://github.com/robotpilot
+
 
 ## 2. Particle filter
 
