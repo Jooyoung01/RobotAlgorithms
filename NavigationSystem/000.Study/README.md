@@ -9,7 +9,7 @@ Localization ;
     + Bayes Theorem 기반, 모델을 상정하고 이 모델을 이용하여 이전 상태로부터 현재 시점의 상태를 Prediction.  
            - Bayse Theorem :  
                P(A|B) = P(B|A)P(A)/P(B)
-    + 그 다음 앞 단계의 예측값과 외부 계측기로 얻은 실제 측정값 사이의 오차(error)를 이용해 더 정확한 상태의 상태값을 추정하는 보정(update) 단계를 거친다.
+    + 앞 단계의 예측값과 외부 계측기로 얻은 실제 측정값 사이의 오차(error)를 이용해 더 정확한 상태의 상태값을 추정하는 보정(update) 단계를 거침.
     + Recursive 하게 반복해서 정확도를 높여감.
   - 단, 칼만필터는 선형 시스템(Linear System)에만 적용가능.  
   보통 로봇과 센서는 대부분 비선형 시스템(Non-linear System).  
